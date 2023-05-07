@@ -1,2 +1,2 @@
 # c_go
-Proyect for learn Go
+Proyect for learn Golang
